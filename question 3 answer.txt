@@ -1,0 +1,11 @@
+Microsoft Windows [Version 10.0.19043.1889]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Dell>cd C:\Users\Dell\OneDrive\Desktop\python practice
+
+C:\Users\Dell\OneDrive\Desktop\python practice>python demo.py
+"Teacher's day"
+ hello
+rupesh poonia Diploma CSE 22 0
+
+C:\Users\Dell\OneDrive\Desktop\python practice>
